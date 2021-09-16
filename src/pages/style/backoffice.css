@@ -1,0 +1,35 @@
+.section-backoffice {
+    padding: 0px 150px 120px;
+}
+
+.content-tab {
+    padding: 40px 0px 0px;
+}
+
+.img-edit {
+    width: 125px;
+}
+
+a#uncontrolled-tab-example-tab-creation {
+    color: #212529 !important;
+}
+
+a#uncontrolled-tab-example-tab-list {
+    color: #212529 !important;
+}
+
+a#uncontrolled-tab-example-tab-users {
+    color: #212529 !important;
+}
+
+a#uncontrolled-tab-example-tab-orders {
+    color: #212529 !important;
+}
+
+a#uncontrolled-tab-example-tab-stats {
+    color: #212529 !important;
+}
+
+a#uncontrolled-tab-example-tab-category {
+    color: #212529 !important;
+  }

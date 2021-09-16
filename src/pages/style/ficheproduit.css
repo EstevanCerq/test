@@ -1,0 +1,44 @@
+img {
+  width: 480px;
+}
+
+p {
+  font-size: 18px;
+}
+
+#inlineFormCustomSelectPref {
+  width: 120px;
+}
+
+button.addcart.btn.btn-dark {
+  padding: 10px 20px 10px 20px;
+}
+
+.choose-size {
+  padding-top: 20px;
+}
+
+.suggestions {
+  padding: 20px;
+}
+
+.suggestions img {
+  max-width: 170px;
+  max-height: 170px;
+}
+
+.garantie {
+  padding-top: 50px;
+}
+
+.fa-truck-loading {
+  color: #e5bc94;
+}
+
+.fa-check-double {
+  color: #26b24a;
+}
+
+.fa-comments {
+  color: #028bca;
+}

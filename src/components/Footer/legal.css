@@ -1,0 +1,29 @@
+/* PAGES LEGALES STYLE */
+
+#cgv h5 {
+  padding-top: 20px;
+}
+
+#cgv p {
+  padding-top: 0px;
+}
+
+#cgu h5 {
+  padding-top: 20px;
+}
+
+#cgu p {
+  padding-top: 0px;
+}
+
+#confidentialite h5 {
+  padding-top: 20px;
+}
+
+#confidentialite p {
+  padding-top: 0px;
+}
+
+p {
+  font-size: 14px;
+}

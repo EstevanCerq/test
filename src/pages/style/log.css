@@ -1,0 +1,11 @@
+/* CONNEXION INSCRIPTION STYLE */
+
+#connexion .form-control {
+  background-color: #fff !important;
+  width: 40%;
+}
+
+#inscription .form-control {
+  background-color: #fff !important;
+  width: 40%;
+}

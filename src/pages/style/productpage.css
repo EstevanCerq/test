@@ -1,0 +1,20 @@
+#bandeau img {
+  width: 100%;
+}
+
+.title-section {
+  padding-top: 0px;
+}
+
+.title-filters {
+  padding-top: 30px;
+}
+
+.products {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.products ul {
+  padding-inline-start: 0px !important;
+}

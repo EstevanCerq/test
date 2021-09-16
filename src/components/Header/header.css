@@ -1,0 +1,97 @@
+/* STYLE HEADER */
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #161616;
+}
+
+.title-prideon {
+    font-size: 24px !important;
+    font-family: "Oswald", sans-serif;
+}
+
+a.nav-link {
+    position: relative;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.0625em;
+    text-decoration: none !important;
+}
+
+a.nav-link:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+a.nav-link:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.icons {
+    color: #fff;
+    font-size: 1em;
+    display: flex;
+}
+
+.account {
+    font-size: x-large;
+}
+
+.opacite:hover {
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    a.nav-link {
+        color: #fff;
+        text-decoration: none;
+        position: relative;
+    }
+
+    a.nav-link:before {
+        content: "";
+        position: absolute;
+        height: 2px;
+        bottom: 0;
+        left: 0;
+    }
+
+    a.nav-link:hover:before {
+        visibility: none;
+        transform: scaleX(0);
+    }
+
+    .dropdown {
+        display: none;
+    }
+}
+
+button#dropdown-basic {
+    background: none;
+    border: none;
+    font-size: 1.4em !important;
+}
+
+.links {
+    color: #000 !important;
+}
+
+.links:hover {
+    text-decoration: none;
+}
+
+.txt {
+    color: grey !important;
+    text-align: center;
+}

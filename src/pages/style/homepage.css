@@ -1,0 +1,114 @@
+/* STYLE HOMEPAGE */
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 48px !important;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  font-size: 38px !important;
+}
+
+h4 {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px !important;
+}
+
+h5 {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px !important;
+}
+
+.card img {
+  height: 250px;
+  object-fit: contain;
+}
+
+.popular-button {
+  padding: 10px 20px 10px 20px;
+  font-size: 20px;
+}
+
+/* SECTION QUI SOMMES NOUS */
+#quisommesnous .whoareus {
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+#quisommesnous .logo-homepage {
+  width: 12rem;
+  height: 12rem;
+  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+
+/* SECTION NOUVEAUTES */
+
+#nike a {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+#nike ul {
+  padding-inline-start: 0px;
+}
+
+/* SECTION POPULAIRES */
+
+#jordan a {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+#jordan ul {
+  padding-inline-start: 0px;
+}
+
+/* SECTION À VENIR */
+
+#yeezy a {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+#yeezy ul {
+  padding-inline-start: 0px;
+}
+
+/* SECTION BANDEAU */
+
+.bandeau-concours {
+  background-image: url("../../assets/models.png");
+  width: auto;
+  height: 400px;
+}
+
+.bandeau-concours h3 {
+  color: #fff;
+  padding-top: 100px;
+}
+
+.bandeau-concours h5 {
+  color: #fff;
+  padding: 40px 0px 50px 0px;
+}
+
+.bandeau-social {
+  background-image: url("../../assets/social.png");
+  width: auto;
+  height: 400px;
+}
+
+.bandeau-social h2 {
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+}
+
+.social-icons {
+  color: #fff;
+  margin-block-start: -30px;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}

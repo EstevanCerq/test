@@ -1,0 +1,13 @@
+.imgcard {
+    height: 25rem;
+    object-fit: contain;
+}
+
+.products a {
+    color: #000 !important;
+    text-decoration: none;
+}
+
+.products ul {
+    justify-content: space-between !important;
+}

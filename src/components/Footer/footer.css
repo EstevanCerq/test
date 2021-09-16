@@ -1,0 +1,30 @@
+/* STYLE FOOTER */
+
+.footer-container{
+    background-color: #161616;
+    color:#fff;
+    padding: 40px 20px 0px 20px;
+  }
+  
+  .footer-container p{
+    font-size: 14px;
+    line-height: 10px;
+  }
+  
+  .footer-container h4{
+    font-weight: bold;
+  }
+  
+  .logo img{
+    width: 64px;
+  }
+  
+  .trait{
+    border-top: 1px solid #fff;
+    width: 100%;
+  }
+
+  .space {
+      letter-spacing: 0.8rem;
+  }
+  
